@@ -39,7 +39,7 @@ key for neovim.
 | `<Ctrl-a>j` | Resize tmux pane downwards. |
 | `<Ctrl-a>k` | Resize tmux pane upwards. |
 | `<Ctrl-a>l` | Resize tmux pane rightwards. |
-| `<Ctrl-a>|` | Split tmux pane horizontally. |
+| `<Ctrl-a>\|` | Split tmux pane horizontally. |
 | `<Ctrl-a>-` | Split tmux pane vertically. |
 
 ### neovim Specific

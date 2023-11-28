@@ -26,18 +26,18 @@ key for neovim.
 
 ### tmux Specific
 
-| Key         | Explanation                   |
-|-------------|-------------------------------|
-| `<Ctrl-a>r` | Refresh tmux config.          |
-| `<Ctrl-a>h` | Resize tmux pane leftwards.   |
-| `<Ctrl-a>j` | Resize tmux pane downwards.   |
-| `<Ctrl-a>k` | Resize tmux pane upwards.     |
-| `<Ctrl-a>l` | Resize tmux pane rightwards.  |
-| `<Ctrl-a>|` | Split tmux pane horizontally. |
-| `<Ctrl-a>-` | Split tmux pane vertically.   |
-| `<Alt>t`    | Open new tmux tab.            |
-| `<Alt><n>`  | Go to `n`-th tmux tab.        |
-| `<Alt><r>`  | Rename current tab.           |
+| Key          | Explanation                   |
+|--------------|-------------------------------|
+| `<Ctrl-a>r`  | Refresh tmux config.          |
+| `<Ctrl-a>h`  | Resize tmux pane leftwards.   |
+| `<Ctrl-a>j`  | Resize tmux pane downwards.   |
+| `<Ctrl-a>k`  | Resize tmux pane upwards.     |
+| `<Ctrl-a>l`  | Resize tmux pane rightwards.  |
+| `<Ctrl-a>\|` | Split tmux pane horizontally. |
+| `<Ctrl-a>-`  | Split tmux pane vertically.   |
+| `<Alt>t`     | Open new tmux tab.            |
+| `<Alt><n>`   | Go to `n`-th tmux tab.        |
+| `<Alt><r>`   | Rename current tab.           |
 
 ### neovim Specific
 

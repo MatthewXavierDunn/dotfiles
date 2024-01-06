@@ -12,11 +12,12 @@ setup steps.
 
 1. Clone the repo;
 2. Move each repo directory into your `~/.config` directory;
-3. Install the tmux plugin manager - tpm:
+3. Move the `.tmux.conf` file into your home, `~`, directory;
+4. Install the tmux plugin manager - tpm:
   ```bash
   git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
   ```
-4. Run both tmux and nvim to perform the initial setup and installation of all
+5. Run both tmux and nvim to perform the initial setup and installation of all
    specified plugins.
 
 ## Key Bindings
